@@ -1,0 +1,1 @@
+puts GC.stat

@@ -1,2 +1,3 @@
 # examples
-examples of code
+
+dhulihan's implementations of code examples. Intended as a learning tool for language-specific concepts.
